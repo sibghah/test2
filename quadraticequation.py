@@ -9,7 +9,7 @@ c = 6
 
 # calculate the discriminant
 d = (b**2) - (4*a*c)
-
+#here
 #here
 
 # find two solutions
